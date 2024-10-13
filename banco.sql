@@ -1,4 +1,4 @@
-CREATE TABLE dados (
+CREATE TABLE alunos (
     AlunoID int,
     Nome varchar(50),
     Sobrenome varchar(50),
